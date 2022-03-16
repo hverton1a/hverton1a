@@ -1,5 +1,5 @@
 
-<h3> :men: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
