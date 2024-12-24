@@ -25,17 +25,23 @@
   
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)
   
-  ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+  ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)
   
-  ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)
+  ![Rust](https://img.shields.io/badge/Rust-4B275F?style=for-the-badge&logo=rust&logoColor=white)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)
   
-  ![Django](	https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)
+  ![GO](https://img.shields.io/badge/GO-4B275F?style=for-the-badge&logo=go&logoColor=white)
   
+  ![C#](https://img.shields.io/badge/CSHARP-4B275F?style=for-the-badge&logo=csharp&logoColor=white)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)
+  
+  ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)  
 
 **Utilidades**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)
-
+  
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)
+  
+  ![Lens](https://img.shields.io/badge/-Lens-333333?style=flat&logo=lens)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)
 
 **DevOps**
 
@@ -44,11 +50,14 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)
   
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)
+  
+  ![Kubertnetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes) ![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)
 
 
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC) ![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)
   
   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)![](https://img.shields.io/badge/-%E2%97%8F-yellowgreen)
   
